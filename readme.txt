@@ -1,0 +1,1 @@
+CalcGUI is a GUI program that takes a coin count input, adds the coins, then outputs the total value of the coins.
